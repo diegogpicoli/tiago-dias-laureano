@@ -1,4 +1,7 @@
 ## Olá, meu nome é Tiago Laureano! Venha me conhecer melhor.
+
+<img src="tIago laureano.gif">
+
 <div align="center">
   <a href="https://github.com/tiago-dias-laureano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-dias-laureano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
