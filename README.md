@@ -1,14 +1,25 @@
 ## Olá, meu nome é Tiago Laureano! Venha me conhecer melhor.
 
-<img src="tIago laureano.gif">
+<img src="tiagolaureano.gif">
 
-<div align="center">
+### :man_technologist: Sobre mim
+
+Me chamo Tiago Laureano, atualmente moro em Itaguaí, RJ. Me deparei com a tecnologia pela primeira vez quando eu tinha aproximadamente meus 12 anos e sempre busquei conhecimentos na área de tecnologia. Minha maior paixão simplesmente é codar!!!
+
+##
+
+### :bar_chart: Estatísticas
+
+<div align="center" >
   <a href="https://github.com/tiago-dias-laureano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-dias-laureano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-dias-laureano&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-  
+
+ ##
+ 
+ ### :trophy: Minhas melhores skills
 <div align="center"><br>
   <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +38,13 @@
   
   ##
 <div align="center"><br>
-  <a href="https://instagram.com/tiagodiastl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tiagodiaslaureano32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-dias-laureano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/tiagodiastl" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:tiagodiaslaureano32@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/tiago-dias-laureano" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
